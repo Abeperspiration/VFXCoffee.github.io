@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Visual Effect & Geek Staff
 
 You can use the [editor on GitHub](https://github.com/Abeperspiration/VFXCoffee.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
